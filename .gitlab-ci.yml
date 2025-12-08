@@ -9,23 +9,13 @@ mirror_to_github:
   script:
     - git config --global user.email "titouan336@users.noreply.github.com"
     - git config --global user.name "Titouan336 Mirror Bot"
-    
-    # Remote GitHub
     - git remote remove mirror || true
     - git remote add mirror https://$GITHUB_TOKEN@$GITHUB_REPO.git
-    
-    # Checkout + exclude ipas
     - git checkout $CI_COMMIT_REF_NAME
     - echo "ipas/" >> .gitignore
     - git rm -r --cached ipas/ || true
-    
-    # AJOUTE TOUS LES FICHIERS (sauf .git/)
     - git add *.* || true
-    
-    # Commit + push
-    - git diff --staged --quiet || git commit -m "🤖 Mirror *.* $(date +%Y-%m-%d_%H:%M)"
+    - git diff --staged --quiet || git commit -m "🤖 Mirror $(date +%Y-%m-%d_%H:%M)"
     - git push mirror $CI_COMMIT_REF_NAME --force
-    
-    - echo "✅ MIRROIR GitHub: TOUS *.* sauf ipas !"
   rules:
     - if: '$CI_COMMIT_BRANCH == "main"'
