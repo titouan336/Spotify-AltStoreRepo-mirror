@@ -19,5 +19,3 @@ mirror_to_github:
     - git push mirror $CI_COMMIT_REF_NAME --force
   rules:
     - if: '$CI_COMMIT_BRANCH == "main"'
-  only:
-    - main
