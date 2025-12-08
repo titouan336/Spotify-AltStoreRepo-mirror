@@ -1,5 +1,6 @@
 stages:
   - mirror
+  - update
 
 mirror_to_github:
   stage: mirror
@@ -20,3 +21,16 @@ mirror_to_github:
     - git push mirror $CI_COMMIT_REF_NAME --force
   rules:
     - if: '$CI_COMMIT_BRANCH == "main"'
+
+spotify_update:
+  image: python:3.12-alpine
+  stage: update
+  script:
+    - apk add --no-cache git
+    - pip install python-telegram-bot requests
+    - python3 scripts/scan_telegram.py      
+    - python3 scripts/push_gitlab.py        
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "schedule"'
+  only:
+    - main
