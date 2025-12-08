@@ -1,0 +1,37 @@
+stages:
+  - deploy
+
+mirror_to_github:
+  stage: deploy
+  image: alpine/git
+  script:
+    # Config Git
+    - apk add --no-cache git curl
+    - git config --global user.email "titouan336@users.noreply.github.com"
+    - git config --global user.name "Titouan336 Mirror Bot"
+    
+    # Ajoute remote GitHub
+    - git remote add mirror https://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@github.com/titouan336/Spotify-AltStoreRepo-mirror.git || true
+    
+    # Checkout propre
+    - git checkout main
+    
+    # Exclut UNIQUEMENT dossier ipas
+    - git rm -r --cached ipas/ || true
+    - echo "ipas/" >> .gitignore
+    
+    # AJOUTE TOUS les autres fichiers
+    - git add .
+    - git add .gitignore
+    
+    # Commit et push FORCÉ (miroir complet)
+    - git commit -m "🤖 Full mirror update (sans ipas) $(date +%Y-%m-%d_%H:%M)" || true
+    - git push mirror main --force
+    
+    - echo "✅ GitHub MIRROIR COMPLET (sans ipas) !"
+  rules:
+    - changes:
+        - "**/*"
+        - .gitignore
+  only:
+    - main
