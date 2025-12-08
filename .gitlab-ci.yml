@@ -17,6 +17,6 @@ mirror_to_github:
     - git rm -r --cached ipas/ || true
     - git add source.json .gitignore || true
     - git commit --allow-empty -m "🤖 Mirror clean $(date)" || true
-    - git push mirror $CI_COMMIT_REF_NAME --force-with-lease
+    - git push mirror $CI_COMMIT_REF_NAME --force
   rules:
     - if: '$CI_COMMIT_BRANCH == "main"'
