@@ -24,7 +24,6 @@
       "versions": [
         {
           "version": "9.1.0",
-          "date": "2025-11-27T17:52:00+01:00",
           "localizedDescription": "- updated spotify to v9.1.0\n— one of the most popular music streaming services!\n- EeveeSpotify v6.2.2 included\n- OpenSpotifySafariExtension included",
           "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/classic/EeveeSpotify-9.1.0.ipa",
           "size": 92000000,
@@ -33,7 +32,6 @@
         },
         {
           "version": "9.0.48",
-          "date": "2025-05-31T21:18:00+02:00",
           "localizedDescription": "- updated spotify to v9.1.0\n— one of the most popular music streaming services!\n- EeveeSpotify v6.2.2 included\n- OpenSpotifySafariExtension included",
           "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/classic/EeveeSpotify-9.0.48.ipa",
           "size": 92000000,
@@ -61,12 +59,10 @@
       "versions": [
         {
           "version": "9.1.0",
-          "date": "2025-11-27T17:52:00+01:00",
           "localizedDescription": "- updated spotify to v9.1.0\n— one of the most popular music streaming services!\n- EeveeSpotify v6.2.2 included\n- OpenSpotifySafariExtension included",
           "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/patched/EeveeSpotify-9.1.0-patched.ipa",
           "size": 94100000,
-          "buildVersion": "2",
-          "minOSVersion": "16.0"
+          "buildVersion": "2"
         },
         {
           "version": "9.0.48",
@@ -74,8 +70,7 @@
           "localizedDescription": "- updated spotify to v9.1.0\n— one of the most popular music streaming services!\n- EeveeSpotify v6.2.2 included\n- OpenSpotifySafariExtension included",
           "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/patched/EeveeSpotify-9.0.48-patched.ipa",
           "size": 94100000,
-          "buildVersion": "1",
-          "minOSVersion": "15.0"
+          "buildVersion": "1"
         }
       ],
       "appPermissions": {
