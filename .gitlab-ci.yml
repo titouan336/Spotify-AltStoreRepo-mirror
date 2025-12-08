@@ -5,19 +5,18 @@ mirror_to_github:
   stage: mirror
   image: alpine:latest
   before_script:
-    - apk add --no-cache git curl
+    - apk add --no-cache git curl openssh-client
   script:
     - git config --global user.email "titouan336@users.noreply.github.com"
     - git config --global user.name "Titouan336 Mirror Bot"
     - git remote remove mirror || true
-    - git remote add mirror https://$GITHUB_TOKEN@$GITHUB_REPO.git
+    - git remote add mirror https://oauth2:$GITHUB_TOKEN@github.com/titouan336/Spotify-AltStoreRepo-mirror.git
     - git checkout $CI_COMMIT_REF_NAME
-    - echo "ipas/" >> .gitignore
+    - rm -f .gitignore
+    - echo "ipas/" > .gitignore
     - git rm -r --cached ipas/ || true
-    - git add .gitignore source.json README.md icon.png
-    - git commit -m "🤖 Mirror $(date +%Y-%m-%d_%H:%M)" || true
-    - git push mirror $CI_COMMIT_REF_NAME --force
+    - git add source.json .gitignore || true
+    - git commit --allow-empty -m "🤖 Mirror clean $(date)" || true
+    - git push mirror $CI_COMMIT_REF_NAME --force-with-lease
   rules:
     - if: '$CI_COMMIT_BRANCH == "main"'
-  only:
-    - main
