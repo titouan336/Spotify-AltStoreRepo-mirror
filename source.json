@@ -24,6 +24,7 @@
       "versions": [
         {
           "version": "9.1.0",
+          "date": "2025-11-27",
           "localizedDescription": "- updated spotify to v9.1.0\n— one of the most popular music streaming services!\n- EeveeSpotify v6.2.2 included\n- OpenSpotifySafariExtension included",
           "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/classic/EeveeSpotify-9.1.0.ipa",
           "size": 92000000,
@@ -32,6 +33,7 @@
         },
         {
           "version": "9.0.48",
+          "date": "2025-05-31",
           "localizedDescription": "- updated spotify to v9.1.0\n— one of the most popular music streaming services!\n- EeveeSpotify v6.2.2 included\n- OpenSpotifySafariExtension included",
           "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/classic/EeveeSpotify-9.0.48.ipa",
           "size": 92000000,
@@ -59,6 +61,7 @@
       "versions": [
         {
           "version": "9.1.0",
+          "date": "2025-11-27",
           "localizedDescription": "- updated spotify to v9.1.0\n— one of the most popular music streaming services!\n- EeveeSpotify v6.2.2 included\n- OpenSpotifySafariExtension included",
           "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/patched/EeveeSpotify-9.1.0-patched.ipa",
           "size": 94100000,
@@ -66,7 +69,7 @@
         },
         {
           "version": "9.0.48",
-          "date": "2025-06-03T01:00:00+02:00",
+          "date": "2025-06-03",
           "localizedDescription": "- updated spotify to v9.1.0\n— one of the most popular music streaming services!\n- EeveeSpotify v6.2.2 included\n- OpenSpotifySafariExtension included",
           "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/patched/EeveeSpotify-9.0.48-patched.ipa",
           "size": 94100000,
