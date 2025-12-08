@@ -1,0 +1,71 @@
+{
+  "name": "eeveeSpotify unofficial repo",
+  "subtitle": "Official eevee releases",
+  "description": "Unofficial repository for officials eeveeSpotify releases from whoeevee Telegram channel.\nCredits to whoeevee, repo by titouan336 :)",
+  "iconURL": "https://i.imgur.com/j51OrKn.png",
+  "website": "https://github.com/whoeevee/EeveeSpotifyReborn",
+  "patreonURL": "",
+  "tintColor": "#1ed760",
+  "featuredApps": [
+    "com.titouan336.spotify.classic"
+  ],
+  "apps": [
+    {
+      "name": "Spotify",
+      "bundleIdentifier": "com.titouan336.spotify.classic",
+      "marketplaceID": "",
+      "developerName": "whoeevee",
+      "subtitle": "eeveeSpotify official release",
+      "localizedDescription": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.",
+      "iconURL": "https://i.imgur.com/j51OrKn.png",
+      "tintColor": "#1cd464",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "9.1.0",
+          "date": "2025-11-27T18:52:00+01:00",
+          "localizedDescription": "- updated spotify to v9.1.0\n— one of the most popular music streaming services!\n- EeveeSpotify v6.2.2 included\n- OpenSpotifySafariExtension included",
+          "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/classic/EeveeSpotify-9.1.0.ipa",
+          "size": 92011146,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Spotify (Patched)",
+      "bundleIdentifier": "com.titouan336.spotify.patched",
+      "marketplaceID": "",
+      "developerName": "whoeevee",
+      "subtitle": "Patched app for paid certs",
+      "localizedDescription": "Using the patched IPA should fix any widgets issues had when sideloading with paid certs (with app groups entitlement). this fix does not work with free sideloading methods such as AltStore/Sideloadly, and TrollStore users do not need to use a patched IPA.\n\nfurther note: this IPA should be considered a beta test for now, so general support will not be provided for it.",
+      "iconURL": "https://i.imgur.com/j51OrKn.png",
+      "tintColor": "#1cd464",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "9.1.0",
+          "date": "2025-11-27T18:52:00+01:00",
+          "localizedDescription": "- updated spotify to v9.1.0\n— one of the most popular music streaming services!\n- EeveeSpotify v6.2.2 included\n- OpenSpotifySafariExtension included",
+          "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/patched/EeveeSpotify-9.1.0-patched.ipa",
+          "size": 94053849,
+          "buildVersion": "",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
