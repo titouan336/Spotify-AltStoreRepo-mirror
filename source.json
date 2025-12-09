@@ -7,7 +7,8 @@
   "patreonURL": "",
   "tintColor": "#1ed760",
   "featuredApps": [
-    "com.titouan336.spotify.classic"
+    "com.titouan336.spotify.classic",
+    "com.titouan336.spotify.patched"
   ],
   "apps": [
     {
