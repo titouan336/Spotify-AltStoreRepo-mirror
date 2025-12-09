@@ -16,7 +16,7 @@
       "bundleIdentifier": "com.titouan336.spotify.classic",
       "marketplaceID": "",
       "developerName": "whoeevee",
-      "subtitle": "Latest eevee release",
+      "subtitle": "Latest Eevee release",
       "localizedDescription": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.",
       "iconURL": "https://i.imgur.com/j51OrKn.png",
       "tintColor": "#1cd464",
@@ -28,7 +28,7 @@
           "date": "2025-11-27",
           "localizedDescription": "- updated spotify to v9.1.0\n— one of the most popular music streaming services!\n- EeveeSpotify v6.2.2 included\n- OpenSpotifySafariExtension included",
           "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/classic/EeveeSpotify-9.1.0.ipa",
-          "size": 92000000,
+          "size": 92011146,
           "buildVersion": "2",
           "minOSVersion": "16.0"
         },
@@ -37,7 +37,7 @@
           "date": "2025-05-31",
           "localizedDescription": "- updated spotify to v9.0.48\n— one of the most popular music streaming services!\n- EeveeSpotify v5.9.9 included\n- OpenSpotifySafariExtension included\n\n• Updated Polish localization by @yaptx",
           "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/classic/EeveeSpotify-9.0.48.ipa",
-          "size": 92000000,
+          "size": 83888442,
           "buildVersion": "1",
           "minOSVersion": "15.0"
         }
@@ -65,7 +65,7 @@
           "date": "2025-11-27",
           "localizedDescription": "- updated spotify to v9.1.0\n— one of the most popular music streaming services!\n- EeveeSpotify v6.2.2 included\n- OpenSpotifySafariExtension included",
           "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/patched/EeveeSpotify-9.1.0-patched.ipa",
-          "size": 94100000,
+          "size": 94053849,
           "buildVersion": "2"
         },
         {
@@ -73,7 +73,7 @@
           "date": "2025-06-03",
           "localizedDescription": "- updated spotify to v9.0.48\n— one of the most popular music streaming services!\n- EeveeSpotify v5.9.9 included\n- OpenSpotifySafariExtension included\n\n• Updated Polish localization by @yaptx",
           "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/patched/EeveeSpotify-9.0.48-patched.ipa",
-          "size": 94100000,
+          "size": 84492202,
           "buildVersion": "1"
         }
       ],
