@@ -4,11 +4,11 @@
   <img src="https://github.com/CelloSerenity/altdirect/blob/main/assets/png/AltSource_Blue.png?raw=true" alt="Add AltSource" width="200">
 </a><br><br>
 
-Unofficial repository for EeveeSpotify releases. Automatically fetched from the official [Telegram channel](https://t.me/SpotilifeIPAs).<br>
+Unofficial repository for [EeveeSpotify](https://github.com/whoeevee/EeveeSpotifyReborn) releases. Automatically fetched from the official [Telegram channel](https://t.me/SpotilifeIPAs).<br>
 All content of this repository is cloned to [GitHub](https://github.com/titouan336/Spotify-AltStoreRepo-mirror) except for IPAs files with are hosted exclusively on [GitLab](https://gitlab.com/titouan336/Spotify-AltStoreRepo).<br>
 
 ## EeveeSpotify
 
 This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.
-> Credit to whoeevee: Star his repo and donate!<br>
+> Credit to [whoeevee](https://github.com/whoeevee): Star his repo and donate!<br>
 https://github.com/whoeevee/EeveeSpotifyReborn
