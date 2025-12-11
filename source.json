@@ -4,7 +4,6 @@
   "description": "Unofficial repository for EeveeSpotify releases. Automatically fetched from the official Telegram channel.\nCredits to whoeevee, repo by titouan336 :)",
   "iconURL": "https://i.imgur.com/j51OrKn.png",
   "website": "https://github.com/titouan336/Spotify-AltStoreRepo-mirror",
-  "patreonURL": "",
   "tintColor": "#1ed760",
   "featuredApps": [
     "com.titouan336.spotify.classic",
@@ -76,9 +75,7 @@
           "size": 84492202,
           "buildVersion": "1"
         }
-      ],
-      "appPermissions": {
-        "entitlements": [],
+      ]
         "privacy": {}
       },
       "patreon": {}
