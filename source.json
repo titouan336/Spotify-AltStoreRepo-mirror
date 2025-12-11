@@ -13,7 +13,7 @@
   "apps": [
     {
       "name": "Spotify",
-      "bundleIdentifier": "com.titouan336.spotify.classic",
+      "bundleIdentifier": "com.spotify.client",
       "marketplaceID": "",
       "developerName": "whoeevee",
       "subtitle": "Latest Eevee release",
@@ -50,7 +50,7 @@
     },
     {
       "name": "Spotify (Patched)",
-      "bundleIdentifier": "com.titouan336.spotify.patched",
+      "bundleIdentifier": "com.spotify.client",
       "marketplaceID": "",
       "developerName": "whoeevee",
       "subtitle": "Patched for paid certs",
