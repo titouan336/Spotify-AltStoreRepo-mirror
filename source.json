@@ -39,7 +39,7 @@
     },
     {
       "name": "Spotify (Patched)",
-      "bundleIdentifier": "com.spotify.client",
+      "bundleIdentifier": "com.spotify.client.patched",
       "developerName": "whoeevee",
       "subtitle": "Patched for paid certs",
       "localizedDescription": "Using the patched IPA should fix any widgets issues had when sideloading with paid certs (with app groups entitlement). this fix does not work with free sideloading methods such as AltStore/Sideloadly, and TrollStore users do not need to use a patched IPA.\n\nfurther note: this IPA should be considered a beta test for now, so general support will not be provided for it.",
