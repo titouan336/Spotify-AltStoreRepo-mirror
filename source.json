@@ -36,12 +36,7 @@
           "buildVersion": "1",
           "minOSVersion": "15.0"
         }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
+      ]
     },
     {
       "name": "Spotify (Patched)",
@@ -72,10 +67,6 @@
           "buildVersion": "1"
         }
       ]
-        "privacy": {}
-      },
-      "patreon": {}
     }
-  ],
-  "news": []
+  ]
 }
