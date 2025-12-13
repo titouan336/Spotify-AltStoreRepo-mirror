@@ -5,10 +5,6 @@
   "iconURL": "https://i.imgur.com/j51OrKn.png",
   "website": "https://github.com/titouan336/Spotify-AltStoreRepo-mirror",
   "tintColor": "#1ed760",
-  "featuredApps": [
-    "com.titouan336.spotify.classic",
-    "com.titouan336.spotify.patched"
-  ],
   "apps": [
     {
       "name": "Spotify",
