@@ -63,7 +63,7 @@
           "localizedDescription": "- updated spotify to v9.0.48\n— one of the most popular music streaming services!\n- EeveeSpotify v5.9.9 included\n- OpenSpotifySafariExtension included\n\n• Updated Polish localization by @yaptx",
           "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/patched/EeveeSpotify-9.0.48-Patched.ipa",
           "size": 84492202,
-          "buildVersion": "1"
+          "buildVersion": "1",
           "minOSVersion": "15.0"
         }
       ]
