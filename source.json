@@ -54,15 +54,17 @@
           "localizedDescription": "- updated spotify to v9.1.0\n— one of the most popular music streaming services!\n- EeveeSpotify v6.2.2 included\n- OpenSpotifySafariExtension included",
           "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/patched/EeveeSpotify-9.1.0-patched.ipa",
           "size": 94053849,
-          "buildVersion": "2"
+          "buildVersion": "2",
+          "minOSVersion": "16.0"
         },
         {
           "version": "9.0.48",
           "date": "2025-06-03",
           "localizedDescription": "- updated spotify to v9.0.48\n— one of the most popular music streaming services!\n- EeveeSpotify v5.9.9 included\n- OpenSpotifySafariExtension included\n\n• Updated Polish localization by @yaptx",
-          "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/patched/EeveeSpotify-9.0.48-patched.ipa",
+          "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/patched/EeveeSpotify-9.0.48-Patched.ipa",
           "size": 84492202,
           "buildVersion": "1"
+          "minOSVersion": "15.0"
         }
       ]
     }
