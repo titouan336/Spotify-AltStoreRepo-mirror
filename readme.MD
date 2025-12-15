@@ -4,8 +4,8 @@
   <img src="https://github.com/CelloSerenity/altdirect/blob/main/assets/png/AltSource_Blue.png?raw=true" alt="Add AltSource" width="200">
 </a><br><br>
 
-Unofficial repository for [EeveeSpotify](https://github.com/whoeevee/EeveeSpotifyReborn) releases. Automatically fetched from the official [Telegram channel](https://t.me/SpotilifeIPAs). _(untested, waiting for new eevee update)_<br>
-All content of this repository is cloned to [GitHub](https://github.com/titouan336/Spotify-AltStoreRepo-mirror) except for IPAs files with are hosted exclusively on [GitLab](https://gitlab.com/titouan336/Spotify-AltStoreRepo).<br>
+Unofficial repository for [EeveeSpotify](https://github.com/whoeevee/EeveeSpotifyReborn) releases. Automatically fetched from the official [Telegram channel](https://t.me/SpotilifeIPAs). _(untested, awaiting a new eevee update)_<br>
+All content in this repository is cloned to [GitHub](https://github.com/titouan336/Spotify-AltStoreRepo-mirror), except for IPAs files, which are hosted exclusively on [GitLab](https://gitlab.com/titouan336/Spotify-AltStoreRepo).<br>
 
 ## EeveeSpotify
 
