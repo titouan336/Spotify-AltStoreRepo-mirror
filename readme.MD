@@ -12,5 +12,3 @@ All content in this repository is cloned to [GitHub](https://github.com/titouan3
 This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.
 > Credit to [whoeevee](https://github.com/whoeevee): Star his repo and donate!<br>
 https://github.com/whoeevee/EeveeSpotifyReborn
-
-test
