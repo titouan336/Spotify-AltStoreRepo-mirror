@@ -8,7 +8,7 @@ Unofficial repository for [EeveeSpotify](https://github.com/whoeevee/EeveeSpotif
 
 **AltStore**, **SideStore**, **Feather**, **LiveContainer** are supported<br>
 
-<br>All content in this repository is cloned to [GitHub](https://github.com/titouan336/Spotify-AltStoreRepo-mirror), except for IPAs files, which are hosted exclusively on [GitLab](https://gitlab.com/titouan336/Spotify-AltStoreRepo).<br>
+All content in this repository is cloned to [GitHub](https://github.com/titouan336/Spotify-AltStoreRepo-mirror), except for IPAs files, which are hosted exclusively on [GitLab](https://gitlab.com/titouan336/Spotify-AltStoreRepo).<br>
 
 ### January, 04, 2026 update :
 On December 26, 2025, eevee announced that the project was officially discontinued via a message on his [Telegram channel](https://t.me/SpotilifeIPAs/196), On december 28, the GitHub repo was archived in read-only.
