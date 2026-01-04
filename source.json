@@ -16,6 +16,10 @@
       "tintColor": "#1cd464",
       "category": "other",
       "screenshots": [],
+      "version": "9.1.0",
+      "versionDate": "2025-11-27",
+      "size": 92011146,
+      "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/classic/EeveeSpotify-9.1.0.ipa",
       "versions": [
         {
           "version": "9.1.0",
@@ -46,7 +50,11 @@
       "iconURL": "https://i.imgur.com/j51OrKn.png",
       "tintColor": "#1cd464",
       "category": "other",
-      "screenshots": [],
+      "screenshots": [],      
+      "version": "9.1.0",
+      "versionDate": "2025-11-27",
+      "size": 94053849,
+      "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/patched/EeveeSpotify-9.1.0-patched.ipa",
       "versions": [
         {
           "version": "9.1.0",
@@ -78,6 +86,10 @@
       "tintColor": "#1cd464",
       "category": "other",
       "screenshots": [],
+      "version": "9.1.6",
+      "versionDate": "2026-01-01",
+      "size": 92219638,
+      "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/revived_classic/EeveeSpotify-9.1.6.ipa",
       "versions": [
         {
           "version": "9.1.6",
@@ -100,6 +112,10 @@
       "tintColor": "#1cd464",
       "category": "other",
       "screenshots": [],
+      "version": "9.1.6",
+      "versionDate": "2026-01-01",
+      "size": 94261473,
+      "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/revived_patched/EeveeSpotify-patched-9.1.6.ipa",
       "versions": [
         {
           "version": "9.1.6",
