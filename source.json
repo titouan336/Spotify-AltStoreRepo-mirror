@@ -70,7 +70,7 @@
     },
     {
       "name": "Spotify (Revived)",
-      "bundleIdentifier": "com.spotify.client",
+      "bundleIdentifier": "com.spotify.revived",
       "developerName": "Skye",
       "subtitle": "No custom lyrics support",
       "localizedDescription": "Warning : This tweak does not support custom lyrics at this time.\nUse original EeveeSpotify 9.1.0 for working lyrics.\n\nThis tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.",
@@ -92,7 +92,7 @@
     },
     {
       "name": "Spotify (Revived, Patched)",
-      "bundleIdentifier": "com.spotify.client",
+      "bundleIdentifier": "com.spotify.revived.patched",
       "developerName": "Skye",
       "subtitle": "No custom lyrics support",
       "localizedDescription": "Warning : This tweak does not support custom lyrics at this time.\nUse original EeveeSpotify 9.1.0 for working lyrics.\n\nUsing the patched IPA should fix any widgets issues had when sideloading with paid certs (with app groups entitlement). this fix does not work with free sideloading methods such as AltStore/Sideloadly, and TrollStore users do not need to use a patched IPA.\n\nfurther note: this IPA should be considered a beta test for now, so general support will not be provided for it.",

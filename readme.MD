@@ -5,6 +5,9 @@
 </a><br><br>
 
 Unofficial repository for [EeveeSpotify](https://github.com/whoeevee/EeveeSpotifyReborn) and [EeveeSpotifyRevived](https://github.com/Meeep1/EeveeSpotifyRevivedPublic) releases. ~~Automatically fetched from the official [Telegram channel](https://t.me/SpotilifeIPAs).~~ Automatic updates of IPA packages via Telegram are temporarily disabled due to the discontinuation of the original project. I will manually add the new versions to the repo for now.<br>
+
+**AltStore**, **SideStore**, **Feather**, **LiveContainer** are supported<br>
+
 All content in this repository is cloned to [GitHub](https://github.com/titouan336/Spotify-AltStoreRepo-mirror), except for IPAs files, which are hosted exclusively on [GitLab](https://gitlab.com/titouan336/Spotify-AltStoreRepo).<br>
 
 ### January, 04, 2026 update :
