@@ -27,8 +27,8 @@
           "localizedDescription": "- updated spotify to v9.1.0\n— one of the most popular music streaming services!\n- EeveeSpotify v6.2.2 included\n- OpenSpotifySafariExtension included",
           "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/classic/EeveeSpotify-9.1.0.ipa",
           "size": 92011146,
-          "buildVersion": "2",
-          "minOSVersion": "16.0"
+          "buildVersion": "910001151",
+          "minOSVersion": "16.1"
         },
         {
           "version": "9.0.48",
@@ -36,7 +36,7 @@
           "localizedDescription": "- updated spotify to v9.0.48\n— one of the most popular music streaming services!\n- EeveeSpotify v5.9.9 included\n- OpenSpotifySafariExtension included\n\n• Updated Polish localization by @yaptx",
           "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/classic/EeveeSpotify-9.0.48.ipa",
           "size": 83888442,
-          "buildVersion": "1",
+          "buildVersion": "904800415",
           "minOSVersion": "15.0"
         }
       ]
@@ -53,7 +53,7 @@
       "screenshots": [],      
       "version": "9.1.0",
       "versionDate": "2025-11-27",
-      "size": 94053849,
+      "size": 90262024,
       "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/patched/EeveeSpotify-9.1.0-patched.ipa",
       "versions": [
         {
@@ -61,17 +61,17 @@
           "date": "2025-11-27",
           "localizedDescription": "- updated spotify to v9.1.0\n— one of the most popular music streaming services!\n- EeveeSpotify v6.2.2 included\n- OpenSpotifySafariExtension included",
           "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/patched/EeveeSpotify-9.1.0-patched.ipa",
-          "size": 94053849,
-          "buildVersion": "2",
-          "minOSVersion": "16.0"
+          "size": 90262024,
+          "buildVersion": "910001151",
+          "minOSVersion": "16.1"
         },
         {
           "version": "9.0.48",
           "date": "2025-06-03",
           "localizedDescription": "- updated spotify to v9.0.48\n— one of the most popular music streaming services!\n- EeveeSpotify v5.9.9 included\n- OpenSpotifySafariExtension included\n\n• Updated Polish localization by @yaptx",
           "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/patched/EeveeSpotify-9.0.48-Patched.ipa",
-          "size": 84492202,
-          "buildVersion": "1",
+          "size": 81180907,
+          "buildVersion": "904800415",
           "minOSVersion": "15.0"
         }
       ]
@@ -80,25 +80,34 @@
       "name": "Spotify (Revived)",
       "bundleIdentifier": "com.spotify.revived",
       "developerName": "Skye",
-      "subtitle": "No custom lyrics support",
+      "subtitle": "Limited custom lyrics support",
       "localizedDescription": "Warning : This tweak does not support custom lyrics at this time.\nUse original EeveeSpotify 9.1.0 for working lyrics.\n\nThis tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.",
       "iconURL": "https://i.imgur.com/j51OrKn.png",
       "tintColor": "#1cd464",
       "category": "other",
       "screenshots": [],
-      "version": "9.1.6",
-      "versionDate": "2026-01-01",
-      "size": 92219638,
-      "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/revived_classic/EeveeSpotify-9.1.6.ipa",
+      "version": "9.1.12",
+      "versionDate": "2026-01-15",
+      "size": 90967853,
+      "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/revived_classic/EeveeSpotify-9.1.12.ipa",
       "versions": [
+        {
+          "version": "9.1.12",
+          "date": "2026-01-15",
+          "localizedDescription": "- Updated to Spotify v9.1.12\n- Re added Musixmatch custom lyrics (If lyrics dont show at first, change to next song then go back)\n- Eevee Spotify v6.5.0 included\n- OpenSpotifySafariExtension included",
+          "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/revived_classic/EeveeSpotify-9.1.12.ipa",
+          "size": 90967853,
+          "buildVersion": "911200224",
+          "minOSVersion": "16.1"
+        },
         {
           "version": "9.1.6",
           "date": "2026-01-01",
           "localizedDescription": "- Spotify v9.1.6\n- Re added setting menu\n- Eevee Spotify v6.4.5 included\n- OpenSpotifySafariExtension included",
           "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/revived_classic/EeveeSpotify-9.1.6.ipa",
-          "size": 92219638,
-          "buildVersion": "1",
-          "minOSVersion": "16.0"
+          "size": 89044723,
+          "buildVersion": "910601142",
+          "minOSVersion": "16.1"
         }
       ]
     },
@@ -106,25 +115,34 @@
       "name": "Spotify (Revived, Patched)",
       "bundleIdentifier": "com.spotify.revived.patched",
       "developerName": "Skye",
-      "subtitle": "No custom lyrics support",
+      "subtitle": "Limited custom lyrics support",
       "localizedDescription": "Warning : This tweak does not support custom lyrics at this time.\nUse original EeveeSpotify 9.1.0 for working lyrics.\n\nUsing the patched IPA should fix any widgets issues had when sideloading with paid certs (with app groups entitlement). this fix does not work with free sideloading methods such as AltStore/Sideloadly, and TrollStore users do not need to use a patched IPA.\n\nfurther note: this IPA should be considered a beta test for now, so general support will not be provided for it.",
       "iconURL": "https://i.imgur.com/j51OrKn.png",
       "tintColor": "#1cd464",
       "category": "other",
       "screenshots": [],
-      "version": "9.1.6",
-      "versionDate": "2026-01-01",
-      "size": 94261473,
-      "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/revived_patched/EeveeSpotify-patched-9.1.6.ipa",
+      "version": "9.1.12",
+      "versionDate": "2026-01-15",
+      "size": 92369311,
+      "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/revived_patched/EeveeSpotify-patched-9.1.12.ipa",
       "versions": [
+        {
+          "version": "9.1.12",
+          "date": "2026-01-15",
+          "localizedDescription": "- Updated to Spotify v9.1.12\n- Re added Musixmatch custom lyrics (If lyrics dont show at first, change to next song then go back)\n- Eevee Spotify v6.5.0 included\n- OpenSpotifySafariExtension included",
+          "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/revived_patched/EeveeSpotify-patched-9.1.12.ipa",
+          "size": 92369311,
+          "buildVersion": "911200224",
+          "minOSVersion": "16.1"
+        },
         {
           "version": "9.1.6",
           "date": "2026-01-01",
           "localizedDescription": "- Spotify v9.1.6\n- Re added setting menu\n- Eevee Spotify v6.4.5 included\n- OpenSpotifySafariExtension included",
           "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/revived_patched/EeveeSpotify-patched-9.1.6.ipa",
-          "size": 94261473,
-          "buildVersion": "1",
-          "minOSVersion": "16.0"
+          "size": 90433963,
+          "buildVersion": "910601142",
+          "minOSVersion": "16.1"
         }
       ]
     }

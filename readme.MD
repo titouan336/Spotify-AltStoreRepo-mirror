@@ -12,7 +12,7 @@ All content in this repository is cloned to [GitHub](https://github.com/titouan3
 
 ### January, 04, 2026 update :
 On December 26, 2025, eevee announced that the project was officially discontinued via a message on his [Telegram channel](https://t.me/SpotilifeIPAs/196), On december 28, the GitHub repo was archived in read-only.
-The project was continued by [Skye/Meeep1](https://github.com/Meeep1) under the fork [EeveeSpotifyRevived](https://github.com/Meeep1/EeveeSpotifyRevivedPublic) but does not currently support custom lyrics. (Musixmatch, ect.)<br>
+The project was continued by [Skye/Meeep1](https://github.com/Meeep1) under the fork [EeveeSpotifyRevived](https://github.com/Meeep1/EeveeSpotifyRevivedPublic) but does not currently support custom lyrics. (Musixmatch, etc.)<br>
 <br>For now, the IPA files for both projects are available for download on this AltStore repo but are separated to give users a choice. The applications will be merged when the new fork is perfected and supports custom lyrics.<br>
 
 ## EeveeSpotify
