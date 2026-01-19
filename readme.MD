@@ -1,6 +1,6 @@
 # Spotify-AltStoreRepo
 
-<img src="https://preview.redd.it/i-created-an-unofficial-altstore-repo-for-eeveespotify-v0-6h8xc94ybsbg1.png?width=1080&crop=smart&auto=webp&s=e89d99f74760bc852d989b856115ff4c5b183a4c" alt="Screenchot"><br>
+<img src="https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/img/screenshot_removedbg.png" alt="Screenchot"><br>
 
 <a href="https://celloserenity.github.io/altdirect/?url=https://raw.githubusercontent.com/titouan336/Spotify-AltStoreRepo-mirror/refs/heads/main/source.json" target="_blank">
   <img src="https://github.com/CelloSerenity/altdirect/blob/main/assets/png/AltSource_Blue.png?raw=true" alt="Add AltSource" width="200">
