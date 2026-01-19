@@ -1,12 +1,15 @@
 # Spotify-AltStoreRepo
 
+<img src="https://preview.redd.it/i-created-an-unofficial-altstore-repo-for-eeveespotify-v0-6h8xc94ybsbg1.png?width=1080&crop=smart&auto=webp&s=e89d99f74760bc852d989b856115ff4c5b183a4c" alt="Screenchot"><br>
+
 <a href="https://celloserenity.github.io/altdirect/?url=https://raw.githubusercontent.com/titouan336/Spotify-AltStoreRepo-mirror/refs/heads/main/source.json" target="_blank">
   <img src="https://github.com/CelloSerenity/altdirect/blob/main/assets/png/AltSource_Blue.png?raw=true" alt="Add AltSource" width="200">
 </a><br><br>
 
+
 Unofficial repository for [EeveeSpotify](https://github.com/whoeevee/EeveeSpotifyReborn) and [EeveeSpotifyRevived](https://github.com/Meeep1/EeveeSpotifyRevivedPublic) releases. ~~Automatically fetched from the official [Telegram channel](https://t.me/SpotilifeIPAs).~~ Automatic updates of IPA packages via Telegram are temporarily disabled due to the discontinuation of the original project. I will manually add the new versions to the repo for now.<br>
 
-**AltStore**, **SideStore**, **Feather**, **LiveContainer**, **ESign** are supported<br>
+**AltStore**, **SideStore**, **Feather**, **LiveContainer**, **ESign** are supported.<br> **DO NOT** use patched Version with AltStore, SideStore and LiveContainer.<br>
 
 All content in this repository is cloned to [GitHub](https://github.com/titouan336/Spotify-AltStoreRepo-mirror), except for IPAs files, which are hosted exclusively on [GitLab](https://gitlab.com/titouan336/Spotify-AltStoreRepo).<br>
 
