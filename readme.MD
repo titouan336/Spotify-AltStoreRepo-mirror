@@ -2,9 +2,12 @@
 
 <img src="https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/img/screenshot_removedbg.png" alt="Screenchot"><br>
 
+### Add to your sideloader :
 <a href="https://celloserenity.github.io/altdirect/?url=https://raw.githubusercontent.com/titouan336/Spotify-AltStoreRepo-mirror/refs/heads/main/source.json" target="_blank">
-  <img src="https://github.com/CelloSerenity/altdirect/blob/main/assets/png/AltSource_Blue.png?raw=true" alt="Add AltSource" width="200">
-</a><br><br>
+<img src="https://github.com/CelloSerenity/altdirect/blob/main/assets/png/AltSource_Blue.png?raw=true" alt="Add AltSource" width="200">
+</a><br>
+
+**Last version : 9.1.22** <br><br>
 
 
 Unofficial repository for [EeveeSpotify](https://github.com/whoeevee/EeveeSpotifyReborn) and [EeveeSpotifyRevived](https://github.com/Meeep1/EeveeSpotifyRevivedPublic) releases. ~~Automatically fetched from the official [Telegram channel](https://t.me/SpotilifeIPAs).~~ Automatic updates of IPA packages via Telegram are temporarily disabled due to the discontinuation of the original project. I will manually add the new versions to the repo for now.<br>
