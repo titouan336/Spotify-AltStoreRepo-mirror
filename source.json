@@ -92,15 +92,6 @@
       "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/revived_classic/EeveeSpotify-9.1.12.ipa",
       "versions": [
         {
-          "_version": "9.1.22",
-          "_date": "2026-02-13",
-          "_localizedDescription": "- Updated to Spotify v9.1.22\n- Settings moved to top right of settings page as a gear icon (Switch language to English to see the icon and adjust settings)\n- Fixed gear icon not apearing in other languages\n- Eevee Spotify v6.5.3 included\n- OpenSpotifySafariExtension included",
-          "_downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/revived_classic/EeveeSpotify-6.5.3-9.1.22.ipa",
-          "_size": 94022536,
-          "_buildVersion": "912201632",
-          "_minOSVersion": "16.1"
-        },
-        {
           "version": "9.1.12",
           "date": "2026-01-15",
           "localizedDescription": "- Updated to Spotify v9.1.12\n- Re added Musixmatch custom lyrics (If lyrics dont show at first, change to next song then go back)\n- Eevee Spotify v6.5.0 included\n- OpenSpotifySafariExtension included",
@@ -135,15 +126,6 @@
       "size": 92369311,
       "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/revived_patched/EeveeSpotify-patched-9.1.12.ipa",
       "versions": [
-        {
-          "_version": "9.1.22",
-          "_date": "2026-02-13",
-          "_localizedDescription": "- Updated to Spotify v9.1.22\n- Settings moved to top right of settings page as a gear icon (Switch language to English to see the icon and adjust settings)\n- Fixed gear icon not apearing in other languages\n- Eevee Spotify v6.5.3 included\n- OpenSpotifySafariExtension included",
-          "_downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/revived_patched/EeveeSpotify-6.5.3-9.1.22-patched.ipa",
-          "_size": 99336256,
-          "_buildVersion": "912201632",
-          "_minOSVersion": "16.1"
-        },
         {
           "version": "9.1.12",
           "date": "2026-01-15",
