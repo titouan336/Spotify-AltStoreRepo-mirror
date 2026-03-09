@@ -41,9 +41,6 @@ The project was continued by [Skye](https://github.com/Meeep1) under the fork [E
 This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.
 
 > Credit to [Skye](https://github.com/Meeep1): Star his repo and donate!
-
 <br>https://github.com/Meeep1/EeveeSpotifyRevivedPublic<br>
-
 <br>Special dedication to [whoeevee](https://github.com/whoeevee), thank you for keeping the project going for these two years &lt;3
-
 <br>You still can donate to him and star his repo :&#41;
