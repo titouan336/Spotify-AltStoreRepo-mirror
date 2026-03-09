@@ -86,11 +86,29 @@
       "tintColor": "#1cd464",
       "category": "other",
       "screenshots": [],
-      "version": "9.1.12",
-      "versionDate": "2026-01-15",
-      "size": 90967853,
-      "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/revived_classic/EeveeSpotify-9.1.12.ipa",
+      "version": "9.1.24",
+      "versionDate": "2026-03-09",
+      "size": 96175851,
+      "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/revived_classic/EeveeSpotify-6.6.0-9.1.24.ipa",
       "versions": [
+        {
+          "version": "9.1.24",
+          "date": "2026-03-09",
+          "localizedDescription": "• Updated to Spotify v9.1.24\n• Fixed logout issues\n• Added debugging to settings\n• Known bugs (Crash on first launch, crash when opening sidebar/settings) Both fixed by relaunching the app\n• Eevee Spotify v6.6.0 included\n• OpenSpotifySafariExtension included",
+          "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/revived_classic/EeveeSpotify-6.6.0-9.1.24.ipa",
+          "size": 96175851,
+          "buildVersion": "912401737",
+          "minOSVersion": "16.1"
+        },
+        {
+          "version": "9.1.22",
+          "date": "2026-02-13",
+          "localizedDescription": "- Updated to Spotify v9.1.22\n- Settings moved to top right of settings page as a gear icon (Switch language to English to see the icon and adjust settings)\n- Fixed gear icon not apearing in other languages\n- Eevee Spotify v6.5.3 included\n- OpenSpotifySafariExtension included",
+          "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/revived_classic/EeveeSpotify-6.5.3-9.1.22.ipa",
+          "size": 94022536,
+          "buildVersion": "912201632",
+          "minOSVersion": "16.1"
+        },
         {
           "version": "9.1.12",
           "date": "2026-01-15",
@@ -121,11 +139,29 @@
       "tintColor": "#1cd464",
       "category": "other",
       "screenshots": [],
-      "version": "9.1.12",
-      "versionDate": "2026-01-15",
-      "size": 92369311,
-      "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/revived_patched/EeveeSpotify-patched-9.1.12.ipa",
+      "version": "9.1.24",
+      "versionDate": "2026-03-09",
+      "size": 101566003,
+      "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/revived_patched/EeveeSpotify-6.6.0-9.1.24-patched.ipa",
       "versions": [
+        {
+          "version": "9.1.24",
+          "date": "2026-03-09",
+          "localizedDescription": "• Updated to Spotify v9.1.24\n• Fixed logout issues\n• Added debugging to settings\n• Known bugs (Crash on first launch, crash when opening sidebar/settings) Both fixed by relaunching the app\n• Eevee Spotify v6.6.0 included\n• OpenSpotifySafariExtension included",
+          "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/revived_patched/EeveeSpotify-6.6.0-9.1.24-patched.ipa",
+          "size": 101566003,
+          "buildVersion": "912401737",
+          "minOSVersion": "16.1"
+        },
+        {
+          "version": "9.1.22",
+          "date": "2026-02-13",
+          "localizedDescription": "- Updated to Spotify v9.1.22\n- Settings moved to top right of settings page as a gear icon (Switch language to English to see the icon and adjust settings)\n- Fixed gear icon not apearing in other languages\n- Eevee Spotify v6.5.3 included\n- OpenSpotifySafariExtension included",
+          "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/revived_patched/EeveeSpotify-6.5.3-9.1.22-patched.ipa",
+          "size": 99334975,
+          "buildVersion": "912201632",
+          "minOSVersion": "16.1"
+        },
         {
           "version": "9.1.12",
           "date": "2026-01-15",
