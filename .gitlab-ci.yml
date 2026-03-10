@@ -7,7 +7,7 @@ upload_release_ipas:
   image: curlimages/curl:latest
   script:
     - |
-      echo "Recherche des IPAs pour la version ${CI_COMMIT_TAG}..."
+      echo "Searching ipas for version ${CI_COMMIT_TAG}..."
       
       PATCHED_IPA=$(ls ipas/patched/*${CI_COMMIT_TAG}*.ipa | head -n 1)
 
