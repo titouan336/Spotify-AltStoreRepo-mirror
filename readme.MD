@@ -8,7 +8,7 @@
 <img  src="https://github.com/CelloSerenity/altdirect/blob/main/assets/png/AltSource_Blue.png?raw=true" alt="Add AltSource" width="200">
 </a><br>
 
-**Last version : 9.1.24**  <br><br>
+**Last version : 9.1.28**  <br><br>
 
 Unofficial repository for [EeveeSpotify](https://github.com/whoeevee/EeveeSpotifyReborn) and [EeveeSpotifyRevived](https://github.com/Meeep1/EeveeSpotifyRevivedPublic) releases. ~~Automatically fetched from the official [Telegram channel](https://t.me/SpotilifeIPAs).~~ Automatic updates of IPA packages via Telegram are temporarily disabled due to the discontinuation of the original project. I will manually add the new versions to the repo for now.<br>
 
