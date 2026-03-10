@@ -1,84 +1,44 @@
-com.spotify.revived :
-9.1.28
-Size                : 95267093 bytes
-Build number        : 912802258
-Version string      : 9.1.28
-Minimum iOS version : 16.1
-Bundle ID           : com.spotify.revived
-
-9.1.24:
-Size                : 96175851 bytes
-Build number        : 912401737
-Version string      : 9.1.24
-Minimum iOS version : 16.1
-Bundle ID           : com.spotify.revived
-
-9.1.22:
-Size                : 94022536 bytes
-Build number        : 912201632
-Version string      : 9.1.22
-Minimum iOS version : 16.1
-Bundle ID           : com.spotify.revived
-
-9.1.12:
-Size                : 90967853 bytes
-Build number        : 911200224
-Version string      : 9.1.12
-Minimum iOS version : 16.1
-Bundle ID           : com.spotify.revived
-2026-01-15
-
-9.1.6:
-Size                : 89044723 bytes
-Build number        : 910601142
-Version string      : 9.1.6
-Minimum iOS version : 16.1
-Bundle ID           : com.spotify.revived
-2026-01-01
-
-
-
-com.spotify.revived.patched :
-9.1.28:
-Size                : 100759744 bytes
-Build number        : 912802258
-Version string      : 9.1.28
-Minimum iOS version : 16.1
-Bundle ID           : com.spotify.client
-
-9.1.24:
-Size                : 101566003 bytes
-Build number        : 912401737
-Version string      : 9.1.24
-Minimum iOS version : 16.1
-Bundle ID           : com.spotify.client
-
-9.1.22:
-Size                : 99336256 bytes
-Build number        : 912201632
-Version string      : 9.1.22
-Minimum iOS version : 16.1
-Bundle ID           : com.spotify.client
-
-9.1.12:
-Size                : 92369311 bytes
-Build number        : 911200224
-Version string      : 9.1.12
-Minimum iOS version : 16.1
-Bundle ID           : com.spotify.revived.patched
-2026-01-15
-
-9.1.6:
-Size                : 90433963 bytes
-Build number        : 910601142
-Version string      : 9.1.6
-Minimum iOS version : 16.1
-Bundle ID           : com.spotify.revived.patched
-2026-01-01
-
-
-
 com.spotify.client :
+9.1.28
+Size                : 98550865 bytes
+Build number        : 912802258
+Version string      : 9.1.28
+Minimum iOS version : 16.1
+Bundle ID           : com.spotify.revived
+2026-03-10
+
+9.1.24:
+Size                : 99392024 bytes
+Build number        : 912401737
+Version string      : 9.1.24
+Minimum iOS version : 16.1
+Bundle ID           : com.spotify.revived
+2026-03-09
+
+9.1.22:
+Size                : 97204277 bytes
+Build number        : 912201632
+Version string      : 9.1.22
+Minimum iOS version : 16.1
+Bundle ID           : com.spotify.revived
+2026-02-13
+
+9.1.12:
+Size                : 94101596 bytes
+Build number        : 911200224
+Version string      : 9.1.12
+Minimum iOS version : 16.1
+Bundle ID           : com.spotify.revived
+2026-01-15
+
+9.1.6:
+Size                : 92219638 bytes
+Build number        : 910601142
+Version string      : 9.1.6
+Minimum iOS version : 16.1
+Bundle ID           : com.spotify.revived
+2026-01-01
+
 9.1.0:
 Size                : 92011146 bytes
 Build number        : 910001151
@@ -97,7 +57,46 @@ Bundle ID           : com.spotify.client
 
 
 
-com.spotify.client.patched :
+com.spotify.patched :
+9.1.28:
+Size                : 100759744 bytes
+Build number        : 912802258
+Version string      : 9.1.28
+Minimum iOS version : 16.1
+Bundle ID           : com.spotify.client
+2026-03-10
+
+9.1.24:
+Size                : 101566003 bytes
+Build number        : 912401737
+Version string      : 9.1.24
+Minimum iOS version : 16.1
+Bundle ID           : com.spotify.client
+2026-03-09
+
+9.1.22:
+Size                : 99334975 bytes
+Build number        : 912201632
+Version string      : 9.1.22
+Minimum iOS version : 16.1
+Bundle ID           : com.spotify.client
+2026-02-13
+
+9.1.12:
+Size                : 96189010 bytes
+Build number        : 911200224
+Version string      : 9.1.12
+Minimum iOS version : 16.1
+Bundle ID           : com.spotify.revived.patched
+2026-01-15
+
+9.1.6:
+Size                : 94261473 bytes
+Build number        : 910601142
+Version string      : 9.1.6
+Minimum iOS version : 16.1
+Bundle ID           : com.spotify.revived.patched
+2026-01-01
 
 9.1.0:
 Size                : 90262024 bytes
