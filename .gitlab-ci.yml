@@ -9,7 +9,6 @@ upload_release_ipas:
     - |
       echo "Recherche des IPAs pour la version ${CI_COMMIT_TAG}..."
       
-      # On cherche l'IPA patched qui contient le numéro de version du Tag
       PATCHED_IPA=$(ls ipas/patched/*${CI_COMMIT_TAG}*.ipa | head -n 1)
 
       if [ -f "$CLASSIC_IPA" ]; then
