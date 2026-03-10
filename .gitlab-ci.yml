@@ -1,24 +1,5 @@
 stages:
-  - upload
   - mirror
-
-upload_release_ipas:
-  stage: upload
-  image: curlimages/curl:latest
-  script:
-    - |
-      CLASSIC_IPA=$(ls ipas/classic/*${CI_COMMIT_TAG}*.ipa 2>/dev/null | head -n 1 || true)
-      PATCHED_IPA=$(ls ipas/patched/*${CI_COMMIT_TAG}*.ipa 2>/dev/null | head -n 1 || true)
-
-      if [ -n "$CLASSIC_IPA" ]; then
-        curl --header "JOB-TOKEN: ${CI_JOB_TOKEN}" --upload-file "$CLASSIC_IPA" "${CI_API_V4_URL}/projects/${CI_PROJECT_ID}/packages/generic/spotify-classic/${CI_COMMIT_TAG}/Spotify-Classic-${CI_COMMIT_TAG}.ipa"
-      fi
-
-      if [ -n "$PATCHED_IPA" ]; then
-        curl --header "JOB-TOKEN: ${CI_JOB_TOKEN}" --upload-file "$PATCHED_IPA" "${CI_API_V4_URL}/projects/${CI_PROJECT_ID}/packages/generic/spotify-patched/${CI_COMMIT_TAG}/Spotify-Patched-${CI_COMMIT_TAG}.ipa"
-      fi
-  rules:
-    - if: '$CI_COMMIT_TAG'
 
 mirror_to_github:
   stage: mirror
@@ -28,11 +9,8 @@ mirror_to_github:
   script:
     - git config --global user.email "titouan336@users.noreply.github.com"
     - git config --global user.name "Titouan336 Mirror Bot"
-    - git config --global http.postBuffer 524288000
-    
     - git remote add mirror https://oauth2:$GITHUB_TOKEN@github.com/titouan336/Spotify-AltStoreRepo-mirror.git || true
-    - git rm -r --cached ipas/ || true
+    
     - git push mirror HEAD:refs/heads/main --force
   rules:
     - if: '$CI_COMMIT_BRANCH == "main"'
-    - if: '$CI_COMMIT_TAG'
