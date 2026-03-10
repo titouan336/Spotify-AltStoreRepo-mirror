@@ -19,13 +19,13 @@
       "version": "9.1.28",
       "versionDate": "2026-03-10",
       "size": 98550865,
-      "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/revived_classic/EeveeSpotify-6.6.1-9.1.28.ipa",
+      "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/package_files/280367017/download",
       "versions": [
         {
           "version": "9.1.28",
           "date": "2026-03-10",
           "localizedDescription": "• Updated to Spotify v9.1.28\n• Added more debug logs\n• If you get logged out please send log on github or telegram\n• Known bugs (Crash on first launch/login, crash when opening sidebar/settings) Both fixed by relaunching the app\n• Eevee Spotify v6.6.1 included\n• OpenSpotifySafariExtension included",
-          "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/revived_classic/EeveeSpotify-6.6.1-9.1.28.ipa",
+          "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/package_files/280367017/download",
           "size": 98550865,
           "buildVersion": "912802258",
           "minOSVersion": "16.1"
@@ -99,13 +99,13 @@
       "version": "9.1.28",
       "versionDate": "2026-03-10",
       "size": 100759744,
-      "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/revived_patched/EeveeSpotify-6.6.0-9.1.24-patched.ipa",
+      "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/package_files/280367094/download",
       "versions": [
         {
           "version": "9.1.28",
           "date": "2026-03-10",
           "localizedDescription": "• Updated to Spotify v9.1.28\n• Added more debug logs\n• If you get logged out please send log on github or telegram\n• Known bugs (Crash on first launch/login, crash when opening sidebar/settings) Both fixed by relaunching the app\n• Eevee Spotify v6.6.1 included\n• OpenSpotifySafariExtension included",
-          "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/ipas/revived_patched/EeveeSpotify-6.6.1-9.1.28-patched.ipa",
+          "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/package_files/280367094/download",
           "size": 100759744,
           "buildVersion": "912802258",
           "minOSVersion": "16.1"
