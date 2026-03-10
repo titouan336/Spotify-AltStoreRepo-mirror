@@ -37,7 +37,11 @@ mirror_to_github:
     - git config --global user.email "titouan336@users.noreply.github.com"
     - git config --global user.name "Titouan336 Mirror Bot"
     - git config --global http.postBuffer 524288000
+    
+    - git checkout -B $CI_COMMIT_REF_NAME 
     - git remote add mirror https://oauth2:$GITHUB_TOKEN@github.com/titouan336/Spotify-AltStoreRepo-mirror.git || true
+    - git rm -r --cached ipas/ || true
+    
     - git push mirror $CI_COMMIT_REF_NAME --force
     - git push mirror --tags --force
   rules:
