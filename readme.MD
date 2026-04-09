@@ -8,9 +8,15 @@
 <img  src="https://github.com/CelloSerenity/altdirect/blob/main/assets/png/AltSource_Blue.png?raw=true" alt="Add AltSource" width="200">
 </a><br>
 
-**Last version : 9.1.28**  <br><br>
+**Last version : 9.1.34-PullRequest by jaydenjcpy (latest stable version)**  <br><br>
 
-Unofficial repository for [EeveeSpotify](https://github.com/whoeevee/EeveeSpotifyReborn) and [EeveeSpotifyRevived](https://github.com/Meeep1/EeveeSpotifyRevivedPublic) releases. ~~Automatically fetched from the official [Telegram channel](https://t.me/SpotilifeIPAs).~~ Automatic updates of IPA packages via Telegram are temporarily disabled due to the discontinuation of the original project. I will manually add the new versions to the repo for now.<br>
+Unofficial repository for [EeveeSpotify](https://github.com/whoeevee/EeveeSpotifyReborn) and [EeveeSpotifyRevived](https://github.com/Meeep1/EeveeSpotifyRevivedPublic) releases. Fetched from officials Telegram channels.<br>
+(+Pull request by [jaydenjcpy](https://github.com/jaydenjcpy/EeveeSpotifyRevivedPublic))<br>
+
+All IPAs are tested before being added to the repository. This may take several days. If a version is unstable or doesn't work, it won't be added.<br>
+
+All source code for this project is avaliable on [GitHub](https://github.com/titouan336/Spotify-AltStoreRepo-mirror). Spotify IPAs are hosted on GitLab.<br>
+You can find IPAs download links into [source.json](https://github.com/titouan336/Spotify-AltStoreRepo-mirror/blob/main/source.json) or in Telegram channels. <br>
 
 ### Supported sideloaders :
 **Use classic with :**
@@ -19,21 +25,31 @@ Unofficial repository for [EeveeSpotify](https://github.com/whoeevee/EeveeSpotif
  - LiveContainer
 
 **Use patched with :**
- - Feather (recommended)
+ - Feather (recommended&#42;)
  - ESign
  - KSign
+- TrollApps
+
+<small>&#42;You can easily install an older version with long-click with Feather.</small>
 
 ### Unsupported sideloaders :
 - AltStore PAL
+<br><br>
 
-All content in this repository is cloned to [GitHub](https://github.com/titouan336/Spotify-AltStoreRepo-mirror), except for IPAs files, which are hosted exclusively on [GitLab](https://gitlab.com/titouan336/Spotify-AltStoreRepo).<br>
+## How to choose your sideloader ?
+
+[SideStore](https://sidestore.io/) : 3 apps and 10 AppID limit without LiveContainer. PC needed for first installation. Hard to install.<br>
+
+[Feather](https://feather.khcrysalis.dev/) : Need to buy licence from Apple Developper Program or certficate from a signing service. Avoid KravaSign, Signulous, FlekSt0re and AppsTesters.<br>
+
+Entreprise certificates (aka "free certs") are not recommended. This method is not reliable, violate Apple's Terms of Service, and may get your iDevice blacklisted.<br><br>
 
 ## January, 04, 2026 update :
 
-On December 26, 2025, eevee announced that the project was officially discontinued via a message on his [Telegram channel](https://t.me/SpotilifeIPAs/196), On december 28, the GitHub repo was archived in read-only.
+On December 26, 2025, eevee announced that the project was officially discontinued via a message on his [Telegram channel](https://t.me/SpotilifeIPAs/196), On december 28, the GitHub repo was archived in read-only.<br>
 
 The project was continued by [Skye](https://github.com/Meeep1) under the fork [EeveeSpotifyRevived](https://github.com/Meeep1/EeveeSpotifyRevivedPublic) but does not currently have full support of custom lyrics. (Only Musixmatch)<br>
-Use latest original EeveeSpotify by whoeevee (9.1.0) if you want full custom lyrics support.<br>
+Use latest original EeveeSpotify by whoeevee (9.1.0) if you want full custom lyrics support.<br><br>
 
 ## EeveeSpotify
 
