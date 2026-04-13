@@ -1,6 +1,6 @@
 # Spotify-AltStoreRepo
 
-<img  src="https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/raw/main/img/screenshot_removedbg.png"  alt="Screenchot"><br>
+<img  src="https://github.com/titouan336/Spotify-AltStoreRepo-mirror/blob/main/img/screenshot_removedbg.png?raw=true"  alt="Screenshot"><br>
 
 ### Add to your sideloader :
 
