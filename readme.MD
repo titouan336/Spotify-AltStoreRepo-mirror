@@ -11,13 +11,12 @@
 Or copy [this link](https://raw.githubusercontent.com/titouan336/Spotify-AltStoreRepo-mirror/refs/heads/main/source.json) to your sideloader<br>
 **Last version : 9.1.48 by jaydenjcpy (latest stable version)**  <br><br>
 
-Unofficial repository for [EeveeSpotify](https://github.com/whoeevee/EeveeSpotifyReborn) and [EeveeSpotifyRevived](https://github.com/Meeep1/EeveeSpotifyRevivedPublic) releases. Fetched from officials Telegram channels.<br>
-(+Pull request by [jaydenjcpy](https://github.com/jaydenjcpy/EeveeSpotifyRevivedPublic))<br>
+Unofficial repository for [EeveeSpotify](https://github.com/whoeevee/EeveeSpotifyReborn), [EeveeSpotifyRevived](https://github.com/Meeep1/EeveeSpotifyRevivedPublic) and [EeveeSpotifyReincarnated](https://github.com/jaydenjcpy/EeveeSpotifyReincarnated) releases. Fetched from officials GitHub pages or Telegram channels.<br>
 
 All IPAs are tested before being added to the repository. This may take several days. If a version is unstable or doesn't work, it won't be added.<br>
 
 All source code for this project is avaliable on [GitHub](https://github.com/titouan336/Spotify-AltStoreRepo-mirror). Spotify IPAs are hosted on GitLab.<br>
-You can find IPAs download links into [source.json](https://github.com/titouan336/Spotify-AltStoreRepo-mirror/blob/main/source.json) or in Telegram channels. <br>
+You can find IPAs download links into [source.json](https://github.com/titouan336/Spotify-AltStoreRepo-mirror/blob/main/source.json). <br>
 
 ### Supported sideloaders :
 **Use classic with :**
