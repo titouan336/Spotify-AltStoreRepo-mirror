@@ -1,14 +1,14 @@
-# Spotify-AltStoreRepo
+## THIS REPO IS DISCONTINUED, PLEASE USE THE OFFICIAL EEVEESPOTIFY REPO
 
-<img  src="https://github.com/titouan336/Spotify-AltStoreRepo-mirror/blob/main/img/screenshot_removedbg.png?raw=true"  alt="Screenshot"><br>
+GitHub page : https://github.com/SideloadLabs/EeveeSpotifyReincarnated<br>
 
-### Add to your sideloader :
-
-<a  href="https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/titouan336/Spotify-AltStoreRepo-mirror/refs/heads/main/source.json"  target="_blank">
+<a  href="https://altdirect.app/?url=https://github.com/SideloadLabs/Eevee-Alt-Source/raw/refs/heads/main/apps.json"  target="_blank">
 <img  src="https://github.com/CelloSerenity/altdirect/blob/main/assets/png/AltSource_Blue.png?raw=true" alt="Add AltSource" width="200">
 </a><br>
+Thanks for using<br>
 
-Or copy [this link](https://raw.githubusercontent.com/titouan336/Spotify-AltStoreRepo-mirror/refs/heads/main/source.json) to your sideloader<br>
+# Spotify-AltStoreRepo
+
 **Last version : 9.1.48 by jaydenjcpy (latest stable version)**  <br><br>
 
 Unofficial repository for [EeveeSpotify](https://github.com/whoeevee/EeveeSpotifyReborn), [EeveeSpotifyRevived](https://github.com/Meeep1/EeveeSpotifyRevivedPublic) and [EeveeSpotifyReincarnated](https://github.com/jaydenjcpy/EeveeSpotifyReincarnated) releases. Fetched from officials GitHub pages or Telegram channels.<br>
